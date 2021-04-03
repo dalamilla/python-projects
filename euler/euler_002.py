@@ -7,7 +7,7 @@ four million, find the sum of the even-valued terms.
 """
 
 def Euler002(n):
-  """ Solution of secod Euler problem. """
+  """ Solution of second Euler problem. """
   sum = 0
   
   fib0 = 0
