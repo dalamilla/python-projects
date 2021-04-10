@@ -4,6 +4,7 @@ from euler_001 import Euler001
 from euler_002 import Euler002 
 from euler_003 import Euler003
 from euler_004 import Euler004
+from euler_005 import Euler005
 
 class TestEuler1_10(unittest.TestCase):
 
@@ -63,6 +64,20 @@ class TestEuler1_10(unittest.TestCase):
     for value, expected in tests:
         with self.subTest(value=value):
             self.assertEqual(Euler004(value), expected)
-	
+
+  def test_Euler005(self):
+
+    tests = [
+      (5, 60),
+      (7, 420),
+      (10,2520),
+      (13,360360),
+      (20,232792560),
+    ]
+
+    for value, expected in tests:
+        with self.subTest(value=value):
+            self.assertEqual(Euler005(value), expected)
+
 if __name__ == '__main__':
     unittest.main()
