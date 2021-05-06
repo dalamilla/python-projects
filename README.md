@@ -1,4 +1,4 @@
-# Python Projects
+# Python Practice Projects
 
 A collection of Python projects to improving your coding skills.
 
@@ -12,5 +12,3 @@ A collection of Python projects to improving your coding skills.
 | [CS Ideas](https://www.lovelycoding.org/computer-science-project-ideas-for-final-year/)        | A cs project ideas                                                             |
 | [42 Python Projects](https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/)      | 42 Exciting Python Project Ideas                                               |
 | [13 Project Ideas](https://realpython.com/intermediate-python-project-ideas/)                  | 13 Project Ideas for Intermediate Python Developers                            |
-| [15 Django Project Ideas ](https://www.upgrad.com/blog/python-django-project-ideas-beginners/) | 15 Exciting Python Django Project Ideas                                        |
-| [25 Django Project Ideas](https://www.upgrad.com/blog/django-project-ideas-topics-beginners/)  | 25 Exciting Best Django Project Ideas                                          |
